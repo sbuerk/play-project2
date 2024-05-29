@@ -1,0 +1,12 @@
+{
+    "name": "sbuerk/play-ext-one",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stefan Bürk",
+            "email": "stefan@buerk.tech"
+        }
+    ],
+    "require": {}
+}
